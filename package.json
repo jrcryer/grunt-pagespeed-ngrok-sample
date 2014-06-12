@@ -1,0 +1,26 @@
+{
+  "name": "grunt-pagespeed-ngrok",
+  "description": "Sample grunt-pagespeed and ngrok setup",
+  "homepage": "https://github.com/jrcryer/grunt-pagespeed-ngrok",
+  "author": {
+    "name": "James Cryer",
+    "email": "chat@jamescryer.com",
+    "url": "http://www.jamescryer.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrcryer/grunt-pagespeed-ngrok.git"
+  },
+  "contributors": [],
+  "version": "0.0.1",
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-pagespeed": "^0.2.0",
+    "ngrok": "^0.1.94",
+    "load-grunt-tasks": "^0.5.0"
+  }
+}
